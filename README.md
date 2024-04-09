@@ -1,4 +1,4 @@
-# intro_speech_understanding
+# iM22W7005 LIU TIANLE
 
 This repository contains assignments for the <a
 href="https://www.kcg.edu/">KCGI</a> graduate course "Intro to Speech
